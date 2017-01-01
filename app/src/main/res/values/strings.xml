@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart socket</string>
+    <string name="tvApSsidTitle">SSID</string>
+    <string name="tvPasswordTitle">Password</string>
+    <string name="switchIsSsidHiddenTitle">Hidden SSID</string>
+    <string name="spinnerTaskResultCountTitle">Task Result</string>
+    <string name="btnConfirmTitle">Confirm</string>
+    <string name="app_version">Version</string>
+</resources>
