@@ -1,5 +1,7 @@
 package com.example.zulolo.smartsocket;
 
+import com.example.zulolo.smartsocket.types.IEsptouchTaskParameter;
+
 public class EsptouchTaskParameter implements IEsptouchTaskParameter {
 
 	private long mIntervalGuideCodeMillisecond;

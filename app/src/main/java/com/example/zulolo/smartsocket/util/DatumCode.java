@@ -1,4 +1,6 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.util;
+
+import com.example.zulolo.smartsocket.types.ICodeData;
 
 import java.net.InetAddress;
 

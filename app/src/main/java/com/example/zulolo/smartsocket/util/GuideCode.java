@@ -1,4 +1,7 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.util;
+
+import com.example.zulolo.smartsocket.types.ICodeData;
+import com.example.zulolo.smartsocket.util.ByteUtil;
 
 public class GuideCode implements ICodeData {
 

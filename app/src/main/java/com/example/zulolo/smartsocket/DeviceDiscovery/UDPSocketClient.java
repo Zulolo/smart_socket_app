@@ -1,6 +1,8 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.DeviceDiscovery;
 
 import android.util.Log;
+
+import com.example.zulolo.smartsocket.types.__IEsptouchTask;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

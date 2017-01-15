@@ -1,4 +1,6 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.util;
+
+import com.example.zulolo.smartsocket.types.ICodeData;
 
 /**
  * one data format:(data code should have 2 to 65 data)
@@ -13,7 +15,7 @@ package com.example.zulolo.smartsocket;
  * @author afunx
  * 
  */
-public class DataCode implements ICodeData{
+public class DataCode implements ICodeData {
 	
 	public static final int DATA_CODE_LEN = 6;
 	

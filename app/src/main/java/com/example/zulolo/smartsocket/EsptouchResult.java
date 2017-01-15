@@ -1,5 +1,7 @@
 package com.example.zulolo.smartsocket;
 
+import com.example.zulolo.smartsocket.types.IEsptouchResult;
+
 import java.net.InetAddress;
 import java.util.concurrent.atomic.AtomicBoolean;
 

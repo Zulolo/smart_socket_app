@@ -1,4 +1,4 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.DeviceDiscovery;
 
 import android.content.Context;
 import android.net.wifi.WifiManager;

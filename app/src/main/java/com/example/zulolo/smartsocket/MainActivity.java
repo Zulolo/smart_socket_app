@@ -12,6 +12,10 @@ import android.widget.Spinner;
 import android.widget.Switch;
 import android.widget.Toast;
 
+import com.example.zulolo.smartsocket.types.IEsptouchListener;
+import com.example.zulolo.smartsocket.types.IEsptouchResult;
+import com.example.zulolo.smartsocket.types.IEsptouchTask;
+
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity

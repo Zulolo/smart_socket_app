@@ -1,4 +1,4 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.types;
 
 /**
  * the class used to represent some code to be transformed by UDP socket should implement the interface

@@ -1,5 +1,10 @@
 package com.example.zulolo.smartsocket;
 
+import com.example.zulolo.smartsocket.types.IEsptouchGenerator;
+import com.example.zulolo.smartsocket.util.ByteUtil;
+import com.example.zulolo.smartsocket.util.DatumCode;
+import com.example.zulolo.smartsocket.util.GuideCode;
+
 import java.net.InetAddress;
 
 public class EsptouchGenerator implements IEsptouchGenerator {

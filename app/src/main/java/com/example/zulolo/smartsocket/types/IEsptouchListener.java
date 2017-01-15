@@ -1,4 +1,4 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.types;
 
 public interface IEsptouchListener {
 	/**

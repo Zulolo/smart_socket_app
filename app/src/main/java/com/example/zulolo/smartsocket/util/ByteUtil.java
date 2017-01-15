@@ -1,4 +1,4 @@
-package com.example.zulolo.smartsocket;
+package com.example.zulolo.smartsocket.util;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;

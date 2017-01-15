@@ -2,9 +2,10 @@ package com.example.zulolo.smartsocket;
 
 import android.content.Context;
 
-import com.example.zulolo.smartsocket.EsptouchTaskParameter;
-import com.example.zulolo.smartsocket.IEsptouchTaskParameter;
-import com.example.zulolo.smartsocket.__EsptouchTask;
+import com.example.zulolo.smartsocket.types.IEsptouchListener;
+import com.example.zulolo.smartsocket.types.IEsptouchResult;
+import com.example.zulolo.smartsocket.types.IEsptouchTask;
+import com.example.zulolo.smartsocket.types.IEsptouchTaskParameter;
 
 import java.util.List;
 
